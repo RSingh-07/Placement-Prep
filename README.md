@@ -1,23 +1,26 @@
-Placement-Prep
-This repository contains a collection of coding projects and practice solutions focused on placement preparation. The repository includes basic C++ programs, algorithms, and problem-solving exercises. The aim is to help you practice essential coding concepts and improve problem-solving skills for technical interviews.
+# Placement-Prep
 
-Project Structure
-The repository is structured as follows:
+A collection of my coding projects and practice for placement preparation. Includes DSA solutions, algorithms, and small apps built in C, Java, and Python.
 
-cpp_files: Contains all the source code files written in C++.
+## cpp_files
 
-.gitignore: Specifies which files and directories to ignore in the repository.
+Contains all the source code files in C++ for basic coding practice. The repository includes problems related to:
 
-LICENSE: The license for the repository.
+- Basic algorithms
+- Data manipulation
+- String handling
+- Sorting and searching techniques
+- Other small practice programs for placement preparation.
 
-README.md: This file providing details about the repository.
+## File Structure
 
-Included Programs
-The repository contains various C++ programs covering a variety of topics, including:
-
-Basic Program Solutions: Fundamental problems such as Fibonacci sequence, prime check, palindrome check, etc.
-
-Algorithm Implementations: Includes sorting algorithms, searching techniques, and more.
-
-Utility Functions: Small helper functions that can be used in larger projects.
-
+```plaintext
+Placement-Prep/
+│
+├── cpp_files/
+│   ├── factorialIterative.cpp
+│   ├── palindrome.cpp
+│   └── sumOfDigits.cpp
+│
+├── README.md
+└── LICENSE
