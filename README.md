@@ -1,6 +1,6 @@
 # Placement-Prep
 
-A collection of my coding projects and practice for placement preparation. Includes DSA solutions, algorithms, and small apps built in C, Java, and Python.
+This repository contains a collection of coding projects and practice solutions focused on placement preparation. The repository includes basic C++ programs, algorithms, and problem-solving exercises. The aim is to help you practice essential coding concepts and improve problem-solving skills for technical interviews.
 
 ## cpp_files
 
@@ -12,7 +12,9 @@ Contains all the source code files in C++ for basic coding practice. The reposit
 - Sorting and searching techniques
 - Other small practice programs for placement preparation.
 
-## File Structure
+## Project Structure
+
+The repository is structured as follows:
 
 ```plaintext
 Placement-Prep/
@@ -24,3 +26,4 @@ Placement-Prep/
 │
 ├── README.md
 └── LICENSE
+
